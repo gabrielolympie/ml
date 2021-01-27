@@ -26,5 +26,13 @@
 *.pts
 *.mid
 *.MID
+*.tfrecord
+midi data/*
+L'oréal NLP/
+*weights*
+*checkpoint*
+*.tmp
+*.jsonl
+*.pkl
 
 
