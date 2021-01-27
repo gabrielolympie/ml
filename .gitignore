@@ -24,5 +24,7 @@
 *.ipynb_checkpoints/*
 */cfd/*
 *.pts
+*.mid
+*.MID
 
 
