@@ -20,6 +20,9 @@
 *.tfrecords
 *.json
 *.parquet
-
+*.mat
+*.ipynb_checkpoints/*
+*/cfd/*
+*.pts
 
 
