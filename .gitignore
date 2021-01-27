@@ -27,7 +27,7 @@
 *.mid
 *.MID
 *.tfrecord
-L'oréal NLP/
+social_listening/
 *weights*
 *checkpoint*
 *.tmp
