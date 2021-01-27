@@ -27,7 +27,6 @@
 *.mid
 *.MID
 *.tfrecord
-midi data/*
 L'oréal NLP/
 *weights*
 *checkpoint*
@@ -36,4 +35,4 @@ L'oréal NLP/
 *.pkl
 *.sh
 *.npy
-
+*_MACOSX*
