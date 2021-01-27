@@ -1,0 +1,24 @@
+## Exclude every files that may contain data
+*.pickle
+*.excel
+*.png
+*.mp3
+*.mp4
+*.wav
+*.csv
+*.txt
+*.h5
+*.data*
+*.pb
+*.zip
+*.rar
+*.gz
+*.tar
+*.jpeg
+*.jpg
+*.tfrec
+*.tfrecords
+*.json
+
+
+
