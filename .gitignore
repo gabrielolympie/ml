@@ -34,5 +34,6 @@ L'oréal NLP/
 *.tmp
 *.jsonl
 *.pkl
-
+*.sh
+*.npy
 
