@@ -1,6 +1,6 @@
 ## Exclude every files that may contain data
 *.pickle
-*.excel
+*.xlsx
 *.png
 *.mp3
 *.mp4
