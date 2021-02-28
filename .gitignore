@@ -36,3 +36,6 @@ social_listening/
 *.sh
 *.npy
 *_MACOSX*
+*.pgn*
+*.index
+*.pyc
